@@ -18,11 +18,12 @@ $ ./hobbies.sh --run
 
 $ echo $STATUS
 "Still Googling basic syntax after all these years 😅"
-```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/prasanshaG/prasanshaG/master/thankyou.gif" width="500">
 </div>
+```
+
 
 <div align="center">
 
