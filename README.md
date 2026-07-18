@@ -4,7 +4,7 @@
 
 </div>
 
-```bash
+```text
 $ whoami
 Vivek Tirumalasetty
 
