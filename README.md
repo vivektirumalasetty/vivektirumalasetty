@@ -4,16 +4,15 @@
 
 </div>
 
-```python
-class Vivek:
-    def __init__(self):
-        self.education = "Undergrad @ IIITDM Jabalpur"
-        self.interests = ["Software Engineering", "Chip Design", "VLSI"]
-        self.currently_learning = True
-
-    def status(self):
-        return "Still Googling basic syntax after all these years 😅"
-```
+___
+      /   \      vivek@iiitdmj
+     | (o) |     ─────────────
+      \___/      OS: Undergrad Linux
+                  Shell: Software Engineering
+                  DE: Chip Design / VLSI
+                  Languages: English, French 🇫🇷, Japanese 🇯🇵
+                  Hobby: Cricket 🏏
+                  Uptime: Still debugging life
 
 <div align="center">
 
