@@ -4,22 +4,21 @@
 
 </div>
 
-<div align="center">
-
+```bash
 $ whoami
 Vivek Tirumalasetty
 
 $ cat interests.txt
--Software Engineering
--VLSI Design
+# Software Engineering
+# VLSI Design
 
 $ ./hobbies.sh --run
-🏏 Studies Kohli's batting the way others study textbooks.
-🗣️ Bonjour 🇫🇷 · Konnichiwa 🇯🇵 · Hello 🇮🇳
+🏏 Studies Kohli's batting the way others study textbooks
+🥐 Bonjour 🇫🇷 · こんにちは (Konnichiwa) 🇯🇵 · Hello 🇬🇧
 
 $ echo $STATUS
 "Still Googling basic syntax after all these years 😅"
-<div>
+```
 
 <div align="center">
 
