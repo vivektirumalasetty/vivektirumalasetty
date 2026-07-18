@@ -4,7 +4,7 @@
 
 </div>
 
-```text
+```bash
 $ whoami
 Vivek Tirumalasetty
 
@@ -13,8 +13,8 @@ $ cat interests.txt
 # VLSI Design
 
 $ ./hobbies.sh --run
-🏏 Studying Kohli's batting the way others study textbooks.
-🥐 Bonjour 🇫🇷 · こんにちは (Konnichiwa) 🇯🇵 · Hello 🇬🇧
+$ echo "Studying Kohli's batting the way others study textbooks."
+$ echo "Bonjour 🇫🇷 · こんにちは (Konnichiwa) 🇯🇵 · Hello 🇬🇧"
 
 $ echo $STATUS
 "Still Googling basic syntax after all these years 😅"
