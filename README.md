@@ -13,16 +13,16 @@ $ cat interests.txt
 # VLSI Design
 
 $ ./hobbies.sh --run
-🏏 Studies Kohli's batting the way others study textbooks
+🏏 Studies Kohli's batting the way others study textbooks.
 🥐 Bonjour 🇫🇷 · こんにちは (Konnichiwa) 🇯🇵 · Hello 🇬🇧
 
 $ echo $STATUS
 "Still Googling basic syntax after all these years 😅"
+```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prasanshaG/prasanshaG/master/thankyou.gif" width="500">
+  <img src="[PASTE_YOUR_GIPHY_LINK_HERE](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl1ZTg2cHFndm92NXB0dGtxcmh4emJjdWx2azlrcjY1ZXNtd3dncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)" width="400">
 </div>
-```
 
 
 <div align="center">
