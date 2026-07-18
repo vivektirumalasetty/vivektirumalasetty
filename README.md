@@ -13,7 +13,7 @@ $ cat interests.txt
 # VLSI Design
 
 $ ./hobbies.sh --run
-🏏 Studies Kohli's batting the way others study textbooks.
+🏏 Studying Kohli's batting the way others study textbooks.
 🥐 Bonjour 🇫🇷 · こんにちは (Konnichiwa) 🇯🇵 · Hello 🇬🇧
 
 $ echo $STATUS
