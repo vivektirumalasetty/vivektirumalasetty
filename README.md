@@ -4,15 +4,22 @@
 
 </div>
 
-___
-      /   \      vivek@iiitdmj
-     | (o) |     ─────────────
-      \___/      OS: Undergrad Linux
-                  Shell: Software Engineering
-                  DE: Chip Design / VLSI
-                  Languages: English, French 🇫🇷, Japanese 🇯🇵
-                  Hobby: Cricket 🏏
-                  Uptime: Still debugging life
+<div align="center">
+
+$ whoami
+Vivek Tirumalasetty
+
+$ cat interests.txt
+-Software Engineering
+-VLSI Design
+
+$ ./hobbies.sh --run
+🏏 Studies Kohli's batting the way others study textbooks.
+🗣️ Bonjour 🇫🇷 · Konnichiwa 🇯🇵 · Hello 🇮🇳
+
+$ echo $STATUS
+"Still Googling basic syntax after all these years 😅"
+<div>
 
 <div align="center">
 
