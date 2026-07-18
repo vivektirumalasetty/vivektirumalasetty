@@ -21,9 +21,7 @@ $ echo $STATUS
 ```
 
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/RealToxicPanda/RealToxicPanda/main/img/matrix.gif" width="400">
-  
+  <img src="https://raw.githubusercontent.com/prasanshaG/prasanshaG/master/thankyou.gif" width="500">
 </div>
 
 <div align="center">
