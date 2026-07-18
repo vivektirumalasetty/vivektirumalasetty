@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&text=Vivek%20Tirumalasetty&fontColor=00D9FF&fontSize=40&fontAlign=50&fontAlignY=40&height=150&color=gradient&fontFamily=Fira%20Code)
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vivek+Tirumalasetty;Undergraduate+at+IIITDM+Jabalpur;Software+Engineering+Enthusiast;Exploring+Chip+Design+%26+VLSI)
 
 </div>
