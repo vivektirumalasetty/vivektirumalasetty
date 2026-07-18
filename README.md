@@ -19,6 +19,9 @@ $ ./hobbies.sh --run
 $ echo $STATUS
 "Still Googling basic syntax after all these years 😅"
 ```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RealToxicPanda/RealToxicPanda/main/img/matrix.gif" width="400">
+</div>
 
 <div align="center">
 
