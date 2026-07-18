@@ -1,6 +1,6 @@
 <div align="center">
 
-# `Vivek Tirumalasetty`
+![Header](https://capsule-render.vercel.app/api?type=text&text=Vivek%20Tirumalasetty&fontSize=40&fontColor=39FF14&fontAlign=50&fontAlignY=40&color=0:000000&height=120&animation=fadeIn&fontFamily=Fira+Code)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vivek+Tirumalasetty;Undergraduate+at+IIITDM+Jabalpur;Software+Engineering+Enthusiast;Exploring+Chip+Design+%26+VLSI)
 
